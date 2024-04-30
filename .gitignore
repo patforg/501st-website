@@ -1,0 +1,4 @@
+.vitepress/*
+!.vitepress/config.mjs
+node_modules/
+yarn.lock

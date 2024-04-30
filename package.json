@@ -1,0 +1,19 @@
+{
+  "name": "501st-website",
+  "version": "1.0.0",
+  "description": "tips and tricks for lastwar game",
+  "main": "index.js",
+  "repository": "git@github.com:patforg/501st-website.git",
+  "author": "Patrick Forget <pforget@focuslabs.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "vitepress": "^1.1.4"
+  },
+  "scripts": {
+    "docs": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
