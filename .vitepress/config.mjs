@@ -12,12 +12,17 @@ export default defineConfig({
       { text: 'About', link: '/about' }
     ],
 
+    search: {
+      provider: 'local'
+    },
+
     darkMode: true,
 
     sidebar: [
       {
         text: 'Guides',
         items: [
+          { text: 'Basic Strategies', link: '/guides/basics/' },
           { text: 'Getting Stronger', link: '/guides/getting-stronger/' },
           {
             text: 'Events',
