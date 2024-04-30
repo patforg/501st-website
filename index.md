@@ -28,4 +28,3 @@ features:
     link: /guides/getting-stronger/
     linkText: see tips
 ---
-
