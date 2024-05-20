@@ -1,6 +1,11 @@
 ---
 layout: home
 
+hero:
+  name: "Alliance Duel (VS)"
+  text: "Tips and tricks"
+  tagline: "Best way to prepare and earn points for each day of the alliance duel event."
+
 features:
   - title: "Day 1: Radar Training (Monday)"
     link: /guides/alliance-duel/radar-training
