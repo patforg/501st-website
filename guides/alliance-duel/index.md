@@ -52,3 +52,5 @@ features:
       height:  180
     linkText: see tips
 ---
+
+![radar training points](/assets/trees.jpg)
