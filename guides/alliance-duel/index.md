@@ -19,35 +19,35 @@ features:
   - title: "Day 3: Age of Science (Wednesday)"
     link: /guides/alliance-duel/age-of-science
     icon: 
-      src: assets/tech.jpg
+      src: /501st-website/guides/alliance-duel/assets/tech.jpg
       width: 320 
       height:  180
     linkText: see tips
   - title: "Day 4: Train Heroes (Thursday)"
     link: /guides/alliance-duel/train-heroes
     icon: 
-      src: assets/experience.jpg
+      src: /501st-website/guides/alliance-duel/assets/experience.jpg
       width: 320 
       height:  180
     linkText: see tips
   - title: "Day 5: Total Mobilization (Friday)"
     link: /guides/alliance-duel/total-mobilization
     icon: 
-      src: assets/troops.jpg
+      src: /501st-website/guides/alliance-duel/assets/troops.jpg
       width: 320 
       height:  180
     linkText: see tips
   - title: "Day 6: Enemy Buster (Saturday)"
     link: /guides/alliance-duel/enemy-buster
     icon: 
-      src: assets/cannon.jpg
+      src: /501st-website/guides/alliance-duel/assets/cannon.jpg
       width: 320 
       height:  180
     linkText: see tips
   - title: "Day 7: Rest (Sunday)"
     link: /guides/alliance-duel/day-of-rest
     icon: 
-      src: assets/trees.jpg
+      src: /501st-website/guides/alliance-duel/assets/trees.jpg
       width: 320 
       height:  180
     linkText: see tips
