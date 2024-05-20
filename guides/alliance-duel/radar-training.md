@@ -62,4 +62,4 @@ If you need to go away for a while look for level 8 or higher mines.  You will f
 
 
 ## Day 1: Points Breakdown
-![radar training points](./assets/radar-points.jpg)
+![radar training points](/assets/radar-points.jpg)
