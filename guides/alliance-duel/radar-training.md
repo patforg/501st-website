@@ -1,6 +1,6 @@
 # Day 1: Radar Training (Monday)
 
-Tihs event starts Sunday night at 10pm EST.  The team that can earn the most points will win for that day. Lets see how you can earn points.
+Tihs event starts Sunday night at 10pm EST.  The team that can earn the most points will win 1 for that day out of 13 possible points for the week. Lets see how you can earn points.
 
 ## Earning Points
 
