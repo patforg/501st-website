@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "501st Legion Alliance",
   description: "Tips and tricks for LastWar",
-  base: '/501st-website/',
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
